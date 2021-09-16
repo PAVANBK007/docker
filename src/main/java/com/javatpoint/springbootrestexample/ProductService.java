@@ -14,7 +14,7 @@ public class ProductService implements IProductService {
 		list=new ArrayList<>();
 		list.add(new Product(100,"Mobile","CLK98123",9000.0,6));
 
-		list.add(new Product(101,"Smart ","LGST09167",60000.0,3));
+		list.add(new Product(101,"Smart TV","LGST09167",60000.0,3));
 		list.add(new Product(102,"Washing Machine","38753BK9",9000.0,7));
 		list.add(new Product(103,"Laptop","LPH29OCP",24000.0,1));
 		list.add(new Product(104,"Air Conditioner","ACLG66721",30000.0,5));
